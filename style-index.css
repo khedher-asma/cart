@@ -1,0 +1,22 @@
+
+.main{
+    background-color: #f7c9c1;
+    padding: 79px;
+}
+.main-content{
+    margin: auto;
+    width: 800px;
+    height: 500px;
+    background-color: white;
+}
+.modif-btn{
+    background-color: #e1e8ee;
+}
+p,h5{
+    color:#9d999c
+}
+img{
+    width: 100px;
+    height: 100px;
+}
+   
